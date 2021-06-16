@@ -1,7 +1,3 @@
-![photo_2021-06-16_21-06-42](https://user-images.githubusercontent.com/14277702/122270716-47111080-cee7-11eb-8a48-17da1243293f.jpg)
-![photo_2021-06-16_21-05-47](https://user-images.githubusercontent.com/14277702/122270733-4c6e5b00-cee7-11eb-99ef-6b9acad311d8.jpg)
-![photo_2021-06-16_21-06-38](https://user-images.githubusercontent.com/14277702/122270741-4ed0b500-cee7-11eb-8db9-0a952b9f96b0.jpg)
-![photo_2021-06-16_20-41-13](https://user-images.githubusercontent.com/14277702/122270758-52643c00-cee7-11eb-87ce-4104245da6d6.jpg)
 # CubeSurferClone
 
 
